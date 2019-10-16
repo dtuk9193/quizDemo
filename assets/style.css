@@ -1,0 +1,19 @@
+
+table td {
+  text-align: center;
+  padding:5px;
+}
+
+
+.category-list {
+  width: 400px;
+}
+
+.correct {
+  font-style: italic;
+  font-size: 20px;
+}
+.error {
+  font-size: 30px;
+  color: red;
+}
